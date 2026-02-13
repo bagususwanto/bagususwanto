@@ -34,23 +34,26 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bagususwanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagususwanto&theme=tokyonight" alt="GitHub Streak" />
+   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bagususwanto&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bagususwanto&theme=tokyonight" height="210" alt="Profile Summary" />
+    <td>
+      <img width="600" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bagususwanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bagususwanto&layout=compact&theme=tokyonight&langs_count=8" height="210" alt="Top Langs" />
+    <td>
+      <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=bagususwanto&theme=tokyonight" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bagususwanto&theme=tokyo-night" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bagususwanto&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bagususwanto&theme=tokyo-night" alt="Activity Graph" width="100%" />
+</p>
+
